@@ -73,7 +73,7 @@ export function Header() {
               </Link>
             ))}
             <div className="p-4 pt-4 flex flex-col gap-3">
-              <a href="tel:+16023480319" className="w-full text-center py-3 border border-secondary text-secondary font-bold uppercase text-sm">Call Now</a>
+              <a href="tel:+18013579066" className="w-full text-center py-3 border border-secondary text-secondary font-bold uppercase text-sm">Call Now</a>
               <a href="#quote" className="w-full text-center py-3 bg-primary text-primary-foreground font-bold uppercase text-sm" onClick={() => setIsMobileMenuOpen(false)}>Get a Quote</a>
             </div>
           </nav>

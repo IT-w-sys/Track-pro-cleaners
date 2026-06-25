@@ -8,7 +8,7 @@ export function LocalBusinessSchema() {
     "image": "https://trackpromovers.com/logo.png",
     "@id": "https://trackpromovers.com",
     "url": "https://trackpromovers.com",
-    "telephone": "+16023480319",
+    "telephone": "+1 801 357-9066",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "123 Clean Street, Suite 100",

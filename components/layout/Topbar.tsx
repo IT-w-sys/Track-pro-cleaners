@@ -6,9 +6,9 @@ export function Topbar() {
       <div className="container mx-auto px-4 md:px-6 max-w-7xl flex items-center justify-between">
         {/* Left Side: Contact */}
         <div className="flex items-center gap-6">
-          <a href="tel:+16023480319" className="flex items-center gap-2 hover:text-primary transition-colors">
+          <a href="tel:+18013579066" className="flex items-center gap-2 hover:text-primary transition-colors">
             <Phone className="w-4 h-4 text-primary" />
-            <span className="font-medium">(602) 348-0319</span>
+            <span className="font-medium">+1 801 357-9066</span>
           </a>
           <a href="mailto:inbox@trackpromovers.com" className="flex items-center gap-2 hover:text-primary transition-colors">
             <Mail className="w-4 h-4 text-primary" />
